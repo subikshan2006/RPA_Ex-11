@@ -2,8 +2,8 @@
 
 # Exercise-11-API-Integration-and-Data-Processing
 ~~~
-Name : PRAKASH.C
-Reg.No : 212223240122
+Name : Subikshan p
+Reg.No : 212223240161 
 ~~~
 
 ## Aim
